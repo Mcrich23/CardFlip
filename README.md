@@ -6,7 +6,7 @@ An easy way to flip a card on tap in swiftui.
 
 # Requirements 
 
-- iOS 14, macOS 10.16, tvOS 14, or watchOS 6.7
+- iOS 14, macOS 10.16, tvOS 14, or watchOS 7
 - Swift 5.5+
 - Xcode 12.5+
 
