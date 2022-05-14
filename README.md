@@ -2,7 +2,7 @@
 
 An easy way to flip a card on tap in swiftui.
 
-![CardFlipExample](https://user-images.githubusercontent.com/81453549/168412669-e7402899-bfe9-4a35-8d38-057bbcbaf2a7.gif)
+<img height="277" alt="FlipCardExample" src="https://user-images.githubusercontent.com/81453549/168412669-e7402899-bfe9-4a35-8d38-057bbcbaf2a7.gif">
 
 # Requirements 
 
